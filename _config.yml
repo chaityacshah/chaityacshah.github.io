@@ -1,0 +1,9 @@
+# Site settings
+title: Chaitya Shah
+tag_text: Chaitya Shah
+description: This is my personal page.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
